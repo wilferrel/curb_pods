@@ -1,6 +1,6 @@
 # iOS Cocoapod Spec Directory
 
-![Logo](https://lh3.googleusercontent.com/9JGTRXpwnlONahzUpTliDxqTCNU-whI_hW5WEbaj0N_8o1GB1NmrjK_eUTYHJ1aBws6J92B2nRY=w2560-h1150)
+![Logo](/homerCurbCat.png?raw=true "Optional Title")
 
 ## Description
 **iOS_Podspecs** is a repo where all private cocoapods specs will reside. From here you will be able to easily add Curb private cocoapods to any iOS project.
