@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 	s.description      = 'BottomBarView used in Active Rides VC'
 	s.license          = 'MIT'
 	s.author           = { 'Wil Ferrel' => 'wilferrel@gmail.com' }
-	s.source           = { :git => 'https://github.com/ridecharge/BottomBarView.git', :tag => s.version.to_s }
+	s.source           = { :git => 'https://github.com/ridecharge/cpod_BottomBarView.git', :tag => s.version.to_s }
 	s.platform     = :ios, '7.1'
 	s.source_files = 'Classes/*.{h,m,xib}'
 	s.ios.deployment_target = '7.1'
