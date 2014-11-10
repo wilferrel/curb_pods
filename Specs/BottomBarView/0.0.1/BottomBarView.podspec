@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
 	s.source_files = 'Classes/*.{h,m,xib}'
 	s.ios.deployment_target = '7.0'
 	s.requires_arc = true
-	s.dependency 'YLProgressBar', '3.2.0'
+	s.dependency 'YLProgressBar', '3.3.0'
 end
