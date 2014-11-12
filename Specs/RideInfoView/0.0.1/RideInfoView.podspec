@@ -8,9 +8,9 @@ Pod::Spec.new do |s|
 	s.license          = 'MIT'
 	s.author           = { 'Wil Ferrel' => 'wilferrel@gmail.com' }
 	s.source           = { :git => 'https://github.com/ridecharge/cpod_RideInfoView.git', :tag => s.version.to_s }
-	s.platform     = :ios, '7.1'
+	s.platform     = :ios, '7.0'
 	s.source_files = 'Classes/*.{h,m,xib}'
-	s.ios.deployment_target = '7.1'
+	s.ios.deployment_target = '7.0'
 	s.requires_arc = true
 	s.dependency 'SDWebImage', '3.6'
 end
