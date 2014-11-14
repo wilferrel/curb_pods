@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 	s.name             = 'RideInfoView'
 	s.version          = '0.0.1'
 	s.summary          = 'RideInfoView is a UIView control that displays provider information including driver photo, call/txt button, driver/fleet name'
-	s.homepage         = 'https://github.com/ridecharge/cpod_RideInfoView.git'
+	s.homepage         = 'https://github.com/ridecharge/cpod_RideInfoView'
 	s.description      = 'RideInfoView used in Active Rides VC'
 	s.license          = 'MIT'
 	s.author           = { 'Wil Ferrel' => 'wilferrel@gmail.com' }
